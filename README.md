@@ -1,2 +1,2 @@
 # other
-This SmallSea Website other
+This XiaoHai Mini Other WebSite 
